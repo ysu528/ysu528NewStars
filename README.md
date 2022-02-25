@@ -27,7 +27,39 @@ leetcode最重要的不是题量，而是你要学会对应的题型，能够解
 
 学习地址：https://codeforces.com/
 
+## 工具学习
+
+### anaconda3
+//TODO
+
+### pycharm
+//TODO
+
+### github
+//TODO
+
+### vscode
+//TODO
+
+### latex
+// TODO
+
 ## 组内研究方向学习
 你都来我们组了，当然要学习我们组的东西啦，CTR全家桶准备开学吧
 
+### 该如何读论文？-李沐
+视频地址：https://space.bilibili.com/1567748478/channel/seriesdetail?sid=398820
+
+### 机器学习
+
+暂且建议西瓜书
 //TODO
+
+### 动手学深度学习-李沐
+基于pytorch实现
+
+书籍文档地址：https://zh.d2l.ai/
+视频地址：https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497
+
+### 深度学习推荐系统-王喆
+
